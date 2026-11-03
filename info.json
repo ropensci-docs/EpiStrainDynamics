@@ -1,0 +1,13 @@
+{
+  "commit": {
+    "commit": "f4477f7abde425cf47180626c6de4ffc34903c00",
+    "author": "Saras Windecker <smwindecker@users.noreply.github.com>",
+    "time": "2026-11-03T07:20:21Z",
+    "files": 3,
+    "merge": true,
+    "message": "Merge pull request #88 from ropensci/release-0.2.0\n\nRelease version 0.2.0"
+  },
+  "repo": "https://github.com/ropensci/EpiStrainDynamics",
+  "pkg": "EpiStrainDynamics",
+  "time": "2026-11-03T10:01:53Z"
+}
